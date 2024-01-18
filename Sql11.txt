@@ -1,0 +1,10 @@
+11------->?
+--->
+    select distinct Costomer_name,ID from
+    Customers as c
+    inner join Orders as o
+    on c.ID=o.Customer_ID;
+
+
+
+

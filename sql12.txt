@@ -1,0 +1,4 @@
+12------>?
+--->
+   select Customer_ID,avg(Net_Total) from
+   orders group by Customer_ID;

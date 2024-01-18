@@ -1,0 +1,5 @@
+Name: Danish Maniyar
+Project: Project submitted in 3rd year
+         project name: ipl win probability predictor 
+
+subject of interest: java,sql,jdbc

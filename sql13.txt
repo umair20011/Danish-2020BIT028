@@ -1,0 +1,5 @@
+13------>?
+--->
+   update table Customers
+   set city="Mumbai" 
+   where city="Delhi";
